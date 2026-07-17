@@ -1,10 +1,14 @@
  I specialize in translating complex, messy datasets into clear, actionable business insights and interactive visualizations. 
 
 Beyond the code, I am a nature lover, an avid bowler, and a massive sports enthusiast. I bring that same curiosity, precision, and drive for teamwork into my data science journey.
+
 About Me
+
 Education: Data Science at Moringa School .
 Location: Nairobi, Kenya.
+
 My Goal: To build robust, data-driven solutions and intuitive dashboards that help organizations make smarter, faster decisions.
+
 Current Focus :Advanced predictive modeling, machine learning workflows, and perfecting data storytelling.
 
 ---
